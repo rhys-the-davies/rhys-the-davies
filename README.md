@@ -37,7 +37,7 @@
 
 <img src="images/exepose.png" width="500">
 
-### Before that I worked as an Aerospace materials engineering researcher in Masdar University in Abu Dhabi:
+### Before that I worked as an Aerospace materials engineering researcher in the Masdar Institute in Abu Dhabi:
 
 <img src="images/masdar.jpg" width="500">
 
