@@ -10,28 +10,46 @@
 - ⚡ Fun fact: I ran away with the circus. Read on to learn more. 
 
 
-Right now I work for Canonical, living in London but attending events virtually and otherwise to speak and to learn:
+### Right now I work for Canonical as the primary Product Manager for 7 products, living in London but working remotely:
 
-![Canonical photo1] ![Canonical photo2] ![Canonical photo3]
+<img src="images/nycanonical.jpg" width="500">
 
-Before that I finished a Masters in mechanical engieering and mechatronics from the University of Exeter:
+<img src="images/aaron-gilmore-aQLdDgROIZQ-unsplash.jpg" width="500" height="500">
 
-Before that I worked as an R&D engineer for a company called CyberHawk:
+<img src="images/groupscreenshot.png" width="500">
 
-Before that I studied and worked with a number of start ups in Waterloo University:
 
-Before that I worked as the science and technology editor for the Exepose newspaper:
+### Before that I finished a Masters in mechanical engieering and mechatronics from the University of Exeter:
 
-Before that I worked as an Aerospace materials engineering researcher in Masdar University in Abu Dhabi:
+<img src="images/exerock.jpg" width="500">
 
-Before that I ran away with the circus and learnt to fly in Pennsylvania:
+### Before that I worked as an R&D engineer for a company called CyberHawk:
+
+<img src="images/cyberhawk.jpg" width="500">
+
+### Before that I studied and worked with a number of start ups in Waterloo University:
+
+<img src="images/waterloo.jpg" width="500">
+
+### Before that I worked as the science and technology editor for the Exepose newspaper:
+
+<img src="images/expose.jpg" width="500">
+
+<img src="images/exepose.png" width="500">
+
+### Before that I worked as an Aerospace materials engineering researcher in Masdar University in Abu Dhabi:
+
+<img src="images/masdar.jpg" width="500">
+
+<img src="images/masdaraboys.jpg" width="500">
+
+### Before that I ran away with the circus and learnt to fly in Pennsylvania:
+
+<img src="images/trap.jpg" width="500">
+
+<img src="images/circcrew.jpg" width="500">
 
 
 
 <!--
 **rhys-the-davies/rhys-the-davies** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-
--->
