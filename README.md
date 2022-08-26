@@ -1,4 +1,4 @@
-## Hello there 👋 DON'T PANIC :smile: My name is Rhys - pronounced like Reese Witherspoon - what can I do for you?
+## Hello there 👋  what can I do for you?
 
 - 🔭 I’m currently working on [Ubuntu Appliances](https://ubuntu.com/appliance), [Snapcraft](https://snapcraft.io), [Multipass](https://multipass.run), [LXD](https://linuxcontainers.org), [Ubuntu Robotics](https://ubuntu.com/robotics), [Mir](https://mir-server.io) and [Raspberry Pi initiatives](https://ubuntu.com/download/raspberry-pi) at [Canonical](https://canonical.com). 
 - 🌱 I’m currently learning how to be a better Product Manager and some coding basics
