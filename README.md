@@ -1,16 +1,17 @@
 ## Hello there 👋  what can I do for you?
 
-- 🔭 I’m currently working on [Ubuntu Appliances](https://ubuntu.com/appliance), [Snapcraft](https://snapcraft.io), [Multipass](https://multipass.run), [LXD](https://linuxcontainers.org), [Ubuntu Robotics](https://ubuntu.com/robotics), [Mir](https://mir-server.io) and [Raspberry Pi initiatives](https://ubuntu.com/download/raspberry-pi) at [Canonical](https://canonical.com). 
-- 🌱 I’m currently learning how to be a better Product Manager and some coding basics
-- 👯 I’m looking to collaborate on developing new products and new businesses
-- 🤔 I’m looking for help with starting an online magazine
-- 💬 Ask me about anything you want
-- 📫 If you to reach me I'm sure you'll find a way
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: I ran away with the circus. Read on to learn more. 
 
+### I am a Product Manager of Digital Climate Solutions at South Pole
+
+- 🌱 I’m currently/always learning how to be a better Product Manager
+- 📖 I write a newsletter and a book in my spare time: https://rhysthedavies.substack.com/subscribe
+- 🤔 I’m a writer and story teller always looking for cool things to contribute to
+- 💬 Ask me about anything you want
+- 😄 Pronouns: He/Him
 
 ### Before that I work for Canonical as a Product Manager for 5 products, living in London but working remotely:
+
+- 🔭 I worked on [Ubuntu Appliances](https://ubuntu.com/appliance), [Snapcraft](https://snapcraft.io), [Multipass](https://multipass.run), [LXD](https://linuxcontainers.org), [Ubuntu Robotics](https://ubuntu.com/robotics), [Mir](https://mir-server.io) and [Raspberry Pi initiatives](https://ubuntu.com/download/raspberry-pi) at [Canonical](https://canonical.com). 
 
 <img src="images/nycanonical.jpg" width="500">
 
