@@ -10,7 +10,7 @@
 - ⚡ Fun fact: I ran away with the circus. Read on to learn more. 
 
 
-### Right now I work for Canonical as the primary Product Manager for 7 products, living in London but working remotely:
+### Before that I work for Canonical as a Product Manager for 5 products, living in London but working remotely:
 
 <img src="images/nycanonical.jpg" width="500">
 
